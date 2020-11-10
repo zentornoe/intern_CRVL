@@ -1,4 +1,4 @@
-# intern_CRVL
+# Internship in CRVL ( Computer and Robot Vision Lab. )
 
 ## Imaging Source
 A program that simultaneously acquires 5 images from 5 imaging source camera.
