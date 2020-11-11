@@ -68,4 +68,4 @@ Then, fill the holes in the depth map using the Weighted Median Filtering and di
 |Jetson Nano|
 
 ### 1. What I Want ?
-Based on the previous 5x5 images processing technique, the internship period ended while developing a program to acquire and store images 1 frame per second for processing depth and color video(continuous discarity images).
+Based on the previous 5x5 images processing technique, the internship period ended while developing a program to acquire and store images 1 frame per second for processing depth and color video(continuous disparity images).
